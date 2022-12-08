@@ -1,0 +1,11 @@
+.presentation {
+    background-color: gray;
+}
+
+.text1 {
+    text-align: center;
+}
+
+#symbol {
+    justify-items: end;
+}
